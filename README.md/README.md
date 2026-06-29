@@ -25,7 +25,7 @@ Cada microservicio posee su propia responsabilidad, su propia base de datos y se
 
 ---
 
-## aparienci del Microservicios
+## apariencia del Microservicios
 
 | Microservicio      | Puerto    |
 |--------------------|--------   |
